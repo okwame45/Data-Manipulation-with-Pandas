@@ -1,2 +1,2 @@
 # Data-Manipulation-with-Pandas
-This project focuses on manipulation data
+This project focuses on manipulating data
